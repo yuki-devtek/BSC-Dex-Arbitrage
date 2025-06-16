@@ -1,4 +1,4 @@
-# BSC DEX Arbitrage
+# BSC Dex Arbitrage
 
 Requirements:
 
